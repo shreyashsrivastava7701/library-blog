@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+html {
+    height: 100%;
+    display: block;
+}
+body {
+    background-image: url(images/wp2298007.jpg);
+    padding: 0 40px 40px 40px;
+    min-width: 1200px;
+    height: 100%
+}
+
+.back {
+    background-color: #ffefeb;
+}
+aside {
+    width: 25%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    border-left: 0.5px solid lightgray;
+    color: #7f2c00;
+}
+.aside-head {
+    font-size: 1.3rem;
+    font-family: 'Teko', sans-serif;
+}
+.aside-lists {
+    text-decoration: none;
+    color: #7f2c00;
+}
+#banner {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1rem;
+    width: 97%;
+    height:auto;
+}
+.post-date {
+    text-align: left;
+    margin-left: 2.7rem;
+    margin-top: 4rem;
+}
+.blog-head {
+    text-align: left;   
+    margin-left: 2.7rem;
+    font-size: 1.5rem;
+    color: #7f2c00;
+}
+.post1 {
+    margin-left: 10rem;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    border: 0.5rem solid white;
+    width: 40%;
+    height:90%;
+}
+.post-com {
+    margin-left: 10rem;
+    width: 50%;
+    height: 70%;
+    border: 0.5rem solid white;
+}
+#post3-link1 {
+    margin-left: 13rem;
+    font-size: 1.4rem;
+    color: #7f2c00;
+}
+#below-3 {
+    margin-left: 13.5rem;
+    font-size: 1.4rem;
+    color: #7f2c00;
+}
+.video {
+    width: 40.5%;
+    height: 15rem;
+    margin-top: 1rem;
+    margin-left: 10rem;
+    display: block;
+}
+.sub-mes {
+    text-align: left;
+    margin-left: 4rem;
+    font-size: 1.2rem;
+}
+.post8-sub {
+    margin-left: 24rem;
+    color: #7f2c00;
+    font-size: 2rem;
+}
+.post8-sub2 {
+    margin-left: 15rem;
+    color: #7f2c00;
+    font-size: 2rem;
+}
